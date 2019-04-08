@@ -9,7 +9,7 @@ and open the template in the editor.
     <head>
         <meta charset="UTF-8">
         <title>HOSTALRIOAMAZONAS RESERVATION ONLINE</title>
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
         <link href="css/hojaestilos.css" rel="stylesheet" type="text/css"/>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -20,7 +20,7 @@ and open the template in the editor.
             <img src="lib/duoc.jpg" alt="" height="150" width="400"/>
         </div>
         <div id="contenido">
-            <div id="menu"><?php include('menu.php');?></div>
+            <div id="menu"><?php include('menu.php'); ?></div>
             <div>
                 <h3>WELCOME TO HOSTAL RIO AMAZONAS</h3>
                 <br>
@@ -37,7 +37,7 @@ and open the template in the editor.
             </div>
             <div id="pie-de-pagina">Antonio Varas #666, Fono de contacto: 000000000</div>
         </div>
-        
+
     </body>
 
 
