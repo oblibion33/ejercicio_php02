@@ -22,7 +22,18 @@ and open the template in the editor.
         <div id="contenido">
             <div id="menu"><?php include('menu.php');?></div>
             <div>
-                ola
+                <h3>WELCOME TO HOSTAL RIO AMAZONAS</h3>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
             </div>
             <div id="pie-de-pagina">Antonio Varas #666, Fono de contacto: 000000000</div>
         </div>
